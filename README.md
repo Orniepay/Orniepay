@@ -1,4 +1,4 @@
-# Hello, I'm Ornie 👋
+# Hallo, I'm Ornie 👋
 
 ## Full-Time Comp Sci Student | Passionate Frontend Developer
 
