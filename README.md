@@ -8,5 +8,5 @@ More About Me
 </a>
 
 <a href="https://github.com/Orniepay/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&layout=compact"/>
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&layout=compact"/>
 </a>
