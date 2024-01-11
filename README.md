@@ -12,18 +12,24 @@
 
 ### Languages and Tools:
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left"> 
+<!-- Add the tools here in the same format as the languages -->
+</p>
+
+<h3 align="left">Interested in:</h3>
+<p align="left"> 
+<!-- Add the interests here in the same format as the languages -->
+</p>
 
 ### Let's Connect!
 
