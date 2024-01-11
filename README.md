@@ -30,8 +30,6 @@
 <!-- Add the interests here in the same format as the languages --> ...
 </p>
 
-### Let's Connect!
-
-Feel free to reach out or follow my coding journey.
-
+<h3 style="font-family: Times New Roman, sans-serif;" align="center">Let's Connect!</h3>
+<h3 style="font-family: Times New Roman, sans-serif;" align="center">Feel free to reach out or follow my coding journey.</h3>
 [More About Me](https://github.com/Orniepay)
