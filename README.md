@@ -1,13 +1,6 @@
 <h1 style="font-family: Arial, sans-serif;" align="center">Hallo, I'm Ornie 👋</h1>
 <h3 style="font-family: Arial, sans-serif;" align="center">Full-Time Comp Sci Student | Passionate Frontend Developer</h3>
 
-
-
-
-# Hallo, I'm Ornie 👋
-
-## Full-Time Comp Sci Student | Passionate Frontend Developer
-
 <a href="https://github.com/Orniepay/github-readme-stats">
   <img height=150 width=2000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
 </a> 
