@@ -1,3 +1,9 @@
+<h1 style="font-family: Arial, sans-serif;" align="center">Hallo, I'm Ornie 👋</h1>
+<h3 style="font-family: Arial, sans-serif;" align="center">Full-Time Comp Sci Student | Passionate Frontend Developer</h3>
+
+
+
+
 # Hallo, I'm Ornie 👋
 
 ## Full-Time Comp Sci Student | Passionate Frontend Developer
