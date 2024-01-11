@@ -2,9 +2,14 @@
 
 ## Full-Time Comp Sci Student | Passionate Frontend Developer
 
-![Ornie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact)
+<a href="https://github.com/Orniepay/github-readme-stats">
+  <img height=150 width=2000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
+</a> 
+<a href="https://github.com/Orniepay/convoychat">
+  <img height=130 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
+</a>
+
 
 ### Languages and Tools:
 
@@ -26,32 +31,4 @@
 
 Feel free to reach out or follow my coding journey.
 
-[More About Me](https://github.com/Orniepay)****
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://github.com/Orniepay/github-readme-stats">
-  <img height=150 width=2000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
-</a> 
-<a href="https://github.com/Orniepay/convoychat">
-  <img height=130 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
-</a>
+[More About Me](https://github.com/Orniepay)
