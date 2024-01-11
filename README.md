@@ -2,15 +2,13 @@
 
 ## Full-Time Comp Sci Student | Passionate Frontend Developer
 
-
 <a href="https://github.com/Orniepay/github-readme-stats">
   <img height=150 width=2000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
 </a> 
-<br>
+
 <a href="https://github.com/Orniepay/convoychat">
   <img height=130 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
 </a>
-
 
 ### Languages and Tools:
 
@@ -26,7 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css)
-
 
 ### Let's Connect!
 
