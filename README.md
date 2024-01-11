@@ -2,8 +2,6 @@
 
 ## Full-Time Comp Sci Student | Passionate Frontend Developer
 
-<h3 align="center">[More About Me]</h3>
-
 ![Ornie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact)
