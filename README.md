@@ -2,8 +2,6 @@
 
 ## Full-Time Comp Sci Student | Passionate Frontend Developer
 
-Based in New York City, I'm dedicated to crafting clean and efficient code, with a keen interest in frontend technologies.
-
 <h3 align="center">[More About Me]</h3>
 
 ![Ornie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true)
