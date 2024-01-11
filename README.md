@@ -32,4 +32,4 @@
 
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Let's Connect!</h3>
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Feel free to reach out or follow my coding journey.</h3>
-[More About Me](https://github.com/Orniepay)
+<h3 style="font-family: Times New Roman, sans-serif;" align="center">[More About Me](https://github.com/Orniepay)</h3>
