@@ -13,7 +13,7 @@
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Languages and Tools:</h3>
 
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Languages:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> </a>
@@ -22,12 +22,12 @@
 </p>
 
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <!-- Add the tools here in the same format as the languages --> ...
 </p>
 
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Interested in:</h3>
-<p align="left"> 
+<p align="center"> 
 <!-- Add the interests here in the same format as the languages --> ...
 </p>
 
