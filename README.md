@@ -3,7 +3,7 @@
 <h3 align="center">Full Time Comp Sci Student</h3>
 <h3 align="center">A passionate frontend developer from New York City</h3>
 
-[More About Me]
+<h3 align="center">[More About Me]</h3>
 
 <a href="https://github.com/Orniepay/github-readme-stats">
   <img height=150 width=2000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
