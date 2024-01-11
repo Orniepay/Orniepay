@@ -23,12 +23,12 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<!-- Add the tools here in the same format as the languages -->
+<!-- Add the tools here in the same format as the languages --> ...
 </p>
 
 <h3 align="left">Interested in:</h3>
 <p align="left"> 
-<!-- Add the interests here in the same format as the languages -->
+<!-- Add the interests here in the same format as the languages --> ...
 </p>
 
 ### Let's Connect!
