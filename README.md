@@ -14,6 +14,13 @@
   <img height=130 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
 </a>
 
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+
+| LinkedIn | Github | Discord | 
+| --- | --- | --- |
+| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)]([https://www.kenangain.com/](https://www.linkedin.com/in/ornie-payer/)) | [![Github](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/Orniepay)) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)]([https://discord.gg/YdDyV6QqEN](https://discord.com/users/1034588900267655300)) |
 
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Languages and Tools:</h3>
 
