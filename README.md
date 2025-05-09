@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 <h1 style="font-family: Times New Roman, sans-serif;" align="center">Hallo, I'm Ornie <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> </h1>
 
 <p align="center">
@@ -37,3 +39,5 @@
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Let's Connect!</h3>
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Feel free to reach out or follow my coding journey.</h3>
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">[More About Me](https://github.com/Orniepay)</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
