@@ -58,13 +58,13 @@
     </tr>
   </thead>
   <tbody>
-    <td align="center" style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
         </a>
         <br>HTML
       </td>
-    <tr>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
