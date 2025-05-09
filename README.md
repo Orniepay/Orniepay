@@ -18,8 +18,8 @@
 <div align="center">
   <h2>🌐 Connect with Me</h2>
 
-**| **LinkedIn** | **Github** | **Discord** | 
-| --- | --- | --- |**
+| **LinkedIn** | **Github** | **Discord** | 
+| --- | --- | --- |
 | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=Ornie+Payer&size=square)](https://www.linkedin.com/in/ornie-payer/) | [![Github](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FOrnie+Pay&size=square)](https://github.com/Orniepay) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Orn&size=square)]([https://discord.gg/YdDyV6QqEN](https://discord.com/users/1034588900267655300)) |
 
 <h3 style="font-family: Times New Roman, sans-serif;" align="center">Languages and Tools:</h3>
