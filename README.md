@@ -4,6 +4,10 @@
   <img height=150 width=2000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
 </a> 
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science;Software+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
+</p>
+
 <a href="https://github.com/Orniepay/convoychat">
   <img height=130 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
 </a>
