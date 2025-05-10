@@ -255,6 +255,13 @@
       <br>
       HTML, CSS, Javascript, Python, C++ with Docker & Arduino
     </td>
+    <td align="center" width="600" height="400">
+      <img src="https://github.com/Orniepay/WAYFARER/blob/main/images/Wayfarer.gif"  alt="WAYFARER GAME"/>
+      <br><br>
+      <strong>WAYFARER</strong>
+      <br>
+      Indie 2D Platformer Game: Python with PyGame
+    </td>
   </tr>
 </table>
 
