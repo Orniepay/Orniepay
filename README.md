@@ -32,7 +32,7 @@
 
 <br>
 
-<h2 align="center">🚀 About Me</h2>
+<h1 align="center">🚀 About Me</h1>
 <p align="center">
 <strong>This is hard off the top of my head...</strong>
 </p>
@@ -235,7 +235,7 @@
 
 <br><br>
 
-<h2 align="center">🏆 Featured Projects</h2>
+<h1 align="center">🏆 Featured Projects</h1>
 
 <div align="center">
 
@@ -283,7 +283,7 @@
 
 
 
-<h2 align="center">Support Me</h2>
+<h1 align="center">Support Me</h1>
 <div align="center">
   <table align="center">
     <tr>
