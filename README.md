@@ -35,7 +35,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-This is hard off the top of my head...
+<strong>This is hard off the top of my head...</strong>
 </p>
 
 <br>
