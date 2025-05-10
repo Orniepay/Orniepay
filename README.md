@@ -235,8 +235,7 @@
 
 <br><br>
 
-
-## 🏆 Featured Projects
+<h2 align="center">## 🏆 Featured Projects</h2>
 
 <div align="center">
 
