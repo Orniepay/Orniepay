@@ -243,7 +243,7 @@
 
 <table>
   <tr>
-  <td align="center" width="300" height="200">
+  <td align="center" width="600" height="400">
       <img src="https://github.com/Orniepay/UB-Commons/blob/main/static/video/docker.gif"  alt="UB Commons Food Web App"/>
       <br>
       <strong>UB Commons Food Web App</strong>
