@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=0071FF&width=435&lines=Hallo+there%2C+I'm+Ornie!;Be+Welcomed!+%3AD" alt="Typing SVG" /><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">
-
 <h1 style="font-family: Times New Roman, sans-serif;" align="center">Hallo, I'm Ornie <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> </h1>
 
 <p align="center">
