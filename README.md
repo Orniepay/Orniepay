@@ -306,12 +306,6 @@
 
 </div>
 
-<p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Orniepay&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
-</p>
-
-<!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
-![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <br><br>
