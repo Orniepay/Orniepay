@@ -248,7 +248,14 @@
       <br>
       <strong>UB Commons Food Web App</strong>
       <br>
-      HTML, CSS, Javascript, Python, and Flask with Docker
+      HTML, CSS, Javascript, Python, Flask with Docker
+    </td>
+    <td align="center" width="600" height="400">
+      <img src="https://github.com/Orniepay/VitalCare/blob/main/static/images/VitalsCare.png"  alt="Vitals Care Web App"/>
+      <br>
+      <strong>VitalCare: Remote Patient Monitoring System Web App</strong>
+      <br>
+      HTML, CSS, Javascript, Python, C++ with Docker & Arduino
     </td>
   </tr>
 </table>
