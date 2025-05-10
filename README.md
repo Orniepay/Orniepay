@@ -237,6 +237,24 @@
 <br><br>
 
 
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+  <td align="center" width="300" height="200">
+      <img src="https://github.com/Orniepay/UB-Commons/blob/main/static/video/docker.gif"  alt="UB Commons Food Web App"/>
+      <br>
+      <strong>UB Commons Food Web App</strong>
+      <br>
+      HTML, CSS, Javascript, Python, and Flask with Docker
+    </td>
+  </tr>
+</table>
+
+
+<br><br>
 
 
 <div align="center">
