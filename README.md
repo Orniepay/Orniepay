@@ -35,6 +35,8 @@
 <h1 align="center">🚀 About Me</h1>
 <p align="center">
 <strong>This is hard off the top of my head...</strong>
+<!-- I'm Ornie, a programmer and web developer interested in many fields, driven by passion and countless personal projects.
+You can see more about me and my projects in my personal website. -->
 </p>
 
 <br>
@@ -42,6 +44,7 @@
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<!-- <strong>Over the years, I've learnt by myself many technologies and frameworks I found interesting. Here is a brief (but not complete!) list of the languages and technologies I know:</strong> -->
 <h3 align="center">Web Development</h3>
 <br>
 <div align="center">
