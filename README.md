@@ -309,8 +309,8 @@
 
 
 <br><br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=0071FF&width=435&lines=Hallo+there%2C+I'm+Ornie!;Be+Welcomed!+%3AD" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FFF400&width=435&lines=Hallo+there%2C+I'm+Ornie!;Be+Welcome!+%3AD)](https://git.io/typing-svg)
 
-<br><br><br>
+<br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
