@@ -9,42 +9,19 @@
 <a href="https://github.com/Orniepay/github-readme-stats">
   <img height=150 width=2000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
 </a> 
+
+
 <br>
+
+
 <a href="https://github.com/Orniepay/convoychat">
   <img height=130 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
 </a>
 
-<div align="center">
-<div align="center">
-  <h2> Connect with Me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> </h2>
 
-| **LinkedIn** | **Github** | **Discord** | 
-| --- | --- | --- |
-| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=Ornie+Payer&size=square)](https://www.linkedin.com/in/ornie-payer/) | [![Github](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=Orniepay&size=square)](https://github.com/Orniepay) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Orn&size=square)](https://discord.com/users/1034588900267655300) |
+<br>
 
 
-<h2 align="center">Support Me</h2>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th align="center">
-        <a href="https://buymeacoffee.com/orniepayer" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://buy.stripe.com/test_aFa00jds43PibMh49Xawo00" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
-        </a>
-      </th>
-    </tr>
-  </table>
-
-</div>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
@@ -158,9 +135,6 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
     </tr>
   </tbody>
 </table>
@@ -182,12 +156,6 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
       </td>
     </tr>
   </tbody>
@@ -217,24 +185,6 @@
 </table>
 </div>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
-      </td>
-        <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
-       </td>
-    </tr>
-  </tbody>
-</table>
 </div>
 
 <h3 align="center">AI/ML & Data Science</h3>
@@ -270,35 +220,48 @@
 
 
 
+<br>
 
 
 
 
+<div align="center">
+<div align="center">
+  <h2> Connect with Me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> </h2>
+
+| **LinkedIn** | **Github** | **Discord** | 
+| --- | --- | --- |
+| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=Ornie+Payer&size=square)](https://www.linkedin.com/in/ornie-payer/) | [![Github](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=Orniepay&size=square)](https://github.com/Orniepay) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Orn&size=square)](https://discord.com/users/1034588900267655300) |
 
 
-<h3 style="font-family: Times New Roman, sans-serif;" align="center">Languages and Tools:</h3>
 
-<h3 style="font-family: Times New Roman, sans-serif;" align="center">Languages:</h3>
-<p align="center"> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="50"/> </a>
-<!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="50"/> </a> -->
-</p>
+<br>
 
-<h3 style="font-family: Times New Roman, sans-serif;" align="center">Tools:</h3>
-<p align="center"> 
-<!-- Add the tools here in the same format as the languages --> ...
-</p>
 
-<h3 style="font-family: Times New Roman, sans-serif;" align="center">Interested in:</h3>
-<p align="center"> 
-<!-- Add the interests here in the same format as the languages --> ...
-</p>
 
-<h3 style="font-family: Times New Roman, sans-serif;" align="center">Let's Connect!</h3>
-<h3 style="font-family: Times New Roman, sans-serif;" align="center">Feel free to reach out or follow my coding journey.</h3>
-<h3 style="font-family: Times New Roman, sans-serif;" align="center">[More About Me](https://github.com/Orniepay)</h3>
+<h2 align="center">Support Me</h2>
+<div align="center">
+  <table align="center">
+    <tr>
+      <th align="center">
+        <a href="https://buymeacoffee.com/orniepayer" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+        </a>
+      </th>
+      <th align="center">
+          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
+        </a>
+      </th>
+      <th align="center">
+        <a href="https://buy.stripe.com/test_aFa00jds43PibMh49Xawo00" target="_blank">
+          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
+        </a>
+      </th>
+    </tr>
+  </table>
+
+</div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
