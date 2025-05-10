@@ -11,7 +11,13 @@
 </a> 
 
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Orniepay&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
 <br>
+
 
 
 <a href="https://github.com/Orniepay/convoychat">
