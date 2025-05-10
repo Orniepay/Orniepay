@@ -31,14 +31,14 @@
   <img src="https://komarev.com/ghpvc/?username=Orniepay&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="150" height="30">
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
 This is hard off the top of my head...
 </p>
 
-<br><br>
+<br>
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
