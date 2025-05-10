@@ -306,6 +306,14 @@
 
 </div>
 
+<p align="center">
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Orniepay&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
+</p>
+
+<!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 <br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=0071FF&width=435&lines=Hallo+there%2C+I'm+Ornie!;Be+Welcomed!+%3AD" alt="Typing SVG"/>
 
