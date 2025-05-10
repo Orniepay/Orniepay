@@ -238,7 +238,7 @@ This is hard off the top of my head...
 
 
 
-<br>
+<br><br>
 
 
 
@@ -253,7 +253,7 @@ This is hard off the top of my head...
 
 
 
-<br>
+<br><br>
 
 
 
@@ -280,6 +280,6 @@ This is hard off the top of my head...
 
 </div>
 
-
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
