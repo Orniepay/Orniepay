@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Orniepay&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="150" height="30">
+  <img src="https://komarev.com/ghpvc/?username=Orniepay&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="250" height="60">
 </p>
 
 <br>
