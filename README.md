@@ -42,9 +42,9 @@ This is hard off the top of my head...
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
+<br>
 <h3 align="center">Web Development</h3>
-
+<br>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -106,9 +106,7 @@ This is hard off the top of my head...
   </tbody>
 </table>
 </div>
-
-
-
+<br>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -134,7 +132,7 @@ This is hard off the top of my head...
   </tbody>
 </table>
 </div>
-
+<br>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -157,9 +155,8 @@ This is hard off the top of my head...
   </tbody>
 </table>
 </div>
-
+<br>
 <h3 align="center">Cloud Computing & DevOps</h3>
-
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -179,7 +176,7 @@ This is hard off the top of my head...
   </tbody>
 </table>
 </div>
-
+<br>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -202,9 +199,8 @@ This is hard off the top of my head...
   </tbody>
 </table>
 </div>
-
+<br>
 </div>
-
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -280,6 +276,6 @@ This is hard off the top of my head...
 
 </div>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
