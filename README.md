@@ -300,8 +300,8 @@ You can see more about me and my projects in my personal website. -->
         </a>
       </th>
       <th align="center">
-        <a href="https://buy.stripe.com/test_aFa00jds43PibMh49Xawo00" target="_blank">
-          <img src="https://buy.stripe.com/dR68wZ2GpesA9wY4gg" alt="Donate with Stripe" style="height: 60px; width="200px">
+        <a href="https://buy.stripe.com/dR68wZ2GpesA9wY4gg" target="_blank">
+          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
         </a>
       </th>
     </tr>
