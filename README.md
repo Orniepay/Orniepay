@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science;Software+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
-<img height=250 width=4000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/>
+<!-- <img height=250 width=4000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=true"/> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <img height=250 width=4000 align="center" src="https://streak-stats.demolab.com?user=Orniepay&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
