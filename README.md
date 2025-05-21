@@ -9,7 +9,7 @@
 
 <!-- <br><br> -->
 
-<img height=250 width=4000 align="center" src="https://streak-stats.demolab.com?user=Orniepay&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img height=250 width=4000 align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=Orniepay&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%2C%20Y"/>
 
 
 <br>
