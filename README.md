@@ -7,9 +7,9 @@
 
 <!-- <img height=250 width=4000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=false"/>  -->
 
- <br><br> 
+<br><br> 
 
-<img height=250 width=4000 align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=Orniepay&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%2C%20Y"/> 
+<!-- <img height=250 width=4000 align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=Orniepay&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%2C%20Y"/>  -->
 
 
 <br>
