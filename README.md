@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=388bfd&center=true&vCenter=true&width=435&lines=Software Engineer;" alt="Typing SVG" />
 </p>
 
-<!-- <img height=250 width=4000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=false"/> -->
+ <img height=250 width=4000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=false"/> 
 
-<!-- <br><br> -->
+ <br><br> 
 
 <img height=250 width=4000 align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=Orniepay&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%2C%20Y"/> 
 
@@ -15,11 +15,11 @@
 <br>
 
 
-<!--
+
 <a href="https://github.com/Orniepay/convoychat">
   <img height=230 width=2000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
 </a>
--->
+
 
 
 
