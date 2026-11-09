@@ -1,310 +1,343 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-<h1 style="font-family: Times New Roman, sans-serif;" align="center">Hallo, I'm Ornie <a href="https://orniepayer.com/"><img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/icons/wave.gif" width="48" alt="waving hand"/></a></h1> 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=388bfd&center=true&vCenter=true&width=435&lines=Software+Engineer;" alt="Typing SVG" />
-</p>
-
-<!-- <img height=250 width=4000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=false"/> -->
-
-<!-- <br><br> -->
-
-<!-- <img height=250 width=4000 align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=Orniepay&theme=github_dark_dimmed&hide_border=true&date_format=M%20j%2C%20Y"/> -->
-
-<!--
-<a href="https://github.com/Orniepay/convoychat">
-  <img height=230 width=2000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orniepay&theme=github_dark_dimmed&layout=compact"/>
+<!-- Header -->
+<a href="https://orniepayer.com/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B1120%2C45:1E3A8A%2C100:6D28D9&text=Hallo%2C%20I'm%20Ornie&fontSize=58&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Software%20%C2%B7%20Platform%20%C2%B7%20Backend%20Engineer&descSize=20&descAlignY=58">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:06B6D4%2C50:3B82F6%2C100:8B5CF6&text=Hallo%2C%20I'm%20Ornie&fontSize=58&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Software%20%C2%B7%20Platform%20%C2%B7%20Backend%20Engineer&descSize=20&descAlignY=58" alt="Hallo, I'm Ornie - Software, Platform, Backend Engineer" width="100%">
+</picture>
 </a>
--->
-
-<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Orniepay&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="150" height="30">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=540&height=46&lines=Software+Engineer;Platform+Engineer;Backend+Engineer;Kubernetes+%C2%B7+Cloud+Native+%C2%B7+DevSecOps;Secure%2C+scalable%2C+cloud-native+systems&color=7DD3FC">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=540&height=46&lines=Software+Engineer;Platform+Engineer;Backend+Engineer;Kubernetes+%C2%B7+Cloud+Native+%C2%B7+DevSecOps;Secure%2C+scalable%2C+cloud-native+systems&color=2563EB" alt="Software Engineer, Platform Engineer, Backend Engineer">
+</picture>
 </p>
 
-<br>
-
-<h1 align="center">🚀 About Me</h1>
 <p align="center">
-<strong>This is hard off the top of my head...</strong>
-<!-- I'm Ornie, a programmer and web developer interested in many fields, driven by passion and countless personal projects.
-You can see more about me and my projects in my personal website. -->
+<a href="https://orniepayer.com/"><img src="https://img.shields.io/badge/Website-orniepayer.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://portfolio-orniepays-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/ornie-payer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a> <a href="https://gitlab.com/Orniepay"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a> <a href="https://discord.com/users/1034588900267655300"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Orniepay&label=profile%20views&color=7c3aed&style=flat-square" alt="Profile views">
+</p>
 
+## About me
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<!-- <strong>Over the years, I've learnt by myself many technologies and frameworks I found interesting. Here is a brief (but not complete!) list of the languages and technologies I know:</strong> -->
-<h3 align="center">Web Development</h3>
-<br>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-     <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/><br>Django
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br>
-<h3 align="center">Cloud Computing & DevOps</h3>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br>
-</div>
-<h3 align="center">AI/ML & Data Science</h3>
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-      </td>
-    </tr>
-  </tbody>
- </table>
-</div>
+```yaml
+# $ kubectl get engineer ornie -o yaml
+apiVersion: people.dev/v1
+kind: Engineer
+metadata:
+  name: ornie-payer
+  labels:
+    roles: software-engineer.platform-engineer.backend-engineer
+spec:
+  builds:
+    - Kubernetes-based platform services
+    - Cloud-native applications
+    - Distributed systems, microservices, and APIs
+    - Large-scale backend services
+  languages: [Java, Python, TypeScript, JavaScript, C, Bash]
+  platform:  [Kubernetes, Helm, Istio, Terraform, RHEL, Linux]
+  clouds:    [AWS, GCP, Azure]
+  delivery:  [GitLab CI, CI/CD, IaC, container registries]
+  observe:   [Grafana, monitoring, automated tests]
+status:
+  phase: Running
+  message: "Innovating the future, one line of code at a time."
+```
 
-
-
-<br><br>
-
-<h1 align="center">🏆 Featured Projects</h1>
-
-<div align="center">
+## What I do
 
 <table>
-  <tr>
-  <td align="center" width="600" height="400">
-      <img src="https://github.com/Orniepay/UB-Commons/blob/main/static/video/docker.gif"  alt="UB Commons Food Web App"/>
-      <br><br>
-      <strong>UB Commons Food Web App</strong>
-      <br>
-      HTML, CSS, Javascript, Python, Flask with Docker
-    </td>
-    <td align="center" width="600" height="400">
-      <img src="https://github.com/Orniepay/VitalCare/blob/main/static/images/VitalsCare.png"  alt="Vitals Care Web App"/>
-      <br><br>
-      <strong>VitalCare: Remote Patient Monitoring System Web App</strong>
-      <br>
-      HTML, CSS, Javascript, Python, C++ with Docker & Arduino
-    </td>
-    <td align="center" width="600" height="400">
-      <img src="https://github.com/Orniepay/WAYFARER/blob/main/images/Wayfarer.gif"  alt="WAYFARER GAME"/>
-      <br><br>
-      <strong>WAYFARER: Indie 2D Platformer Game</strong>
-      <br>
-      Python with PyGame
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="https://img.shields.io/badge/-3B82F6?style=flat-square" height="14" alt=""> Platform engineering</h3>
+<ul>
+<li><b>Kubernetes-based platform services</b> and cloud-native apps</li>
+<li><b>AWS</b> (EC2, EKS, IAM, S3, VPC), <b>GCP</b>, <b>Azure</b></li>
+<li><b>Ingress</b>, <b>Istio service mesh</b>, proxies, and <b>OAuth 2.0</b> for internal and external API traffic</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3><img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" height="14" alt=""> Backend engineering</h3>
+<ul>
+<li>Design, build, test, and debug <b>large-scale backend services</b></li>
+<li>Contribute to the design and evolution of <b>scalable distributed systems</b>, microservices, and APIs</li>
+<li>Java, Spring Boot, Python, TypeScript, Gradle</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><img src="https://img.shields.io/badge/-06B6D4?style=flat-square" height="14" alt=""> Secure software delivery</h3>
+<ul>
+<li>Build and improve <b>secure delivery</b> of container images, registries, packages, and deployment artifacts</li>
+<li><b>CI/CD</b> with GitLab CI, continuous delivery, and automation</li>
+<li><b>Infrastructure as Code</b>: Terraform, Helm, YAML</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3><img src="https://img.shields.io/badge/-F97316?style=flat-square" height="14" alt=""> Reliability and teamwork</h3>
+<ul>
+<li><b>Automated tests, monitoring, and observability</b> (Grafana) for long-term service health</li>
+<li>Compliance best practices</li>
+<li>Partner with product managers, stakeholders, clients, security engineers, infrastructure teams, and engineering peers on <b>customer-focused solutions</b></li>
+</ul>
+</td>
+</tr>
 </table>
 
+## Tech stack
 
-<br><br>
+<sub>Hover an icon for its name. Click it for the official docs.</sub>
 
+<table>
+<tr>
+<td align="right"><b>Languages</b></td>
+<td>
+<a href="https://dev.java/" title="Java"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img src="https://skillicons.dev/icons?i=java&theme=light" width="48" height="48" alt="Java" title="Java"></picture></a>
+<a href="https://www.python.org/" title="Python"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" width="48" height="48" alt="Python" title="Python"></picture></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript"></a>
+<a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C"></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" width="48" height="48" alt="Bash" title="Bash"></picture></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS"></a>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td>
+<a href="https://react.dev/" title="React"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" height="48" alt="React" title="React"></picture></a>
+<a href="https://redux.js.org/" title="Redux"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" title="Redux"></a>
+<a href="https://vite.dev/" title="Vite"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vite&theme=dark"><img src="https://skillicons.dev/icons?i=vite&theme=light" width="48" height="48" alt="Vite" title="Vite"></picture></a>
+<a href="https://nextjs.org/" title="Next.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" height="48" alt="Next.js" title="Next.js"></picture></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"></picture></a>
+<a href="https://jquery.com/" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" title="jQuery"></a>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td>
+<a href="https://spring.io/projects/spring-boot" title="Spring Boot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=dark"><img src="https://skillicons.dev/icons?i=spring&theme=light" width="48" height="48" alt="Spring Boot" title="Spring Boot"></picture></a>
+<a href="https://nodejs.org/" title="Node.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" height="48" alt="Node.js" title="Node.js"></picture></a>
+<a href="https://expressjs.com/" title="Express"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark"><img src="https://skillicons.dev/icons?i=express&theme=light" width="48" height="48" alt="Express" title="Express"></picture></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" title="Django"></a>
+<a href="https://flask.palletsprojects.com/" title="Flask"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask&theme=dark"><img src="https://skillicons.dev/icons?i=flask&theme=light" width="48" height="48" alt="Flask" title="Flask"></picture></a>
+<a href="https://gradle.org/" title="Gradle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gradle&theme=dark"><img src="https://skillicons.dev/icons?i=gradle&theme=light" width="48" height="48" alt="Gradle" title="Gradle"></picture></a>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Data</b></td>
+<td>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"></picture></a>
+<a href="https://www.mysql.com/" title="MySQL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" height="48" alt="MySQL" title="MySQL"></picture></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB"></a>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Cloud</b></td>
+<td>
+<a href="https://aws.amazon.com/" title="AWS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS" title="AWS"></picture></a>
+<a href="https://cloud.google.com/" title="Google Cloud"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp&theme=dark"><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="48" height="48" alt="Google Cloud" title="Google Cloud"></picture></a>
+<a href="https://azure.microsoft.com/" title="Azure"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure&theme=dark"><img src="https://skillicons.dev/icons?i=azure&theme=light" width="48" height="48" alt="Azure" title="Azure"></picture></a>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Platform</b></td>
+<td>
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" title="Kubernetes"></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker"></a>
+<a href="https://developer.hashicorp.com/terraform" title="Terraform"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=terraform&theme=dark"><img src="https://skillicons.dev/icons?i=terraform&theme=light" width="48" height="48" alt="Terraform" title="Terraform"></picture></a>
+<a href="https://docs.gitlab.com/ci/" title="GitLab CI/CD"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gitlab&theme=dark"><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="48" height="48" alt="GitLab CI/CD" title="GitLab CI/CD"></picture></a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" title="Red Hat Enterprise Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redhat&theme=dark"><img src="https://skillicons.dev/icons?i=redhat&theme=light" width="48" height="48" alt="Red Hat Enterprise Linux" title="Red Hat Enterprise Linux"></picture></a>
+<a href="https://www.kernel.org/" title="Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" height="48" alt="Linux" title="Linux"></picture></a>
+<a href="https://grafana.com/" title="Grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=grafana&theme=dark"><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="48" height="48" alt="Grafana" title="Grafana"></picture></a>
+</td>
+</tr>
+</table>
 
-<div align="center">
-<div align="center">
-  <h1> Connect with Me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> </h1>
+<details>
+<summary><b>Cloud-native and DevSecOps toolkit</b> &nbsp;<sub>(click to expand)</sub></summary>
+<br>
 
-| **LinkedIn** | **Github** | **Discord** | 
-| --- | --- | --- |
-| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fornie-payer%2F&subtitle=Ornie+Payer&size=square)](https://www.linkedin.com/in/ornie-payer/) | [![Github](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FOrniepay&subtitle=Orniepay&size=square)](https://github.com/Orniepay) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Orn&size=square)](https://discord.com/users/1034588900267655300) |
+<table>
+<tr>
+<td align="right"><b>AWS</b></td>
+<td>
+<a href="https://aws.amazon.com/ec2/" title="Amazon EC2"><img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="34" height="34" align="middle" alt="Amazon EC2" title="Amazon EC2"></a>&nbsp;<b>EC2</b>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/eks/" title="Amazon EKS"><img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Kubernetes-Service.svg" width="34" height="34" align="middle" alt="Amazon EKS" title="Amazon EKS"></a>&nbsp;<b>EKS</b>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/iam/" title="AWS IAM"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Identity-and-Access-Management.svg" width="34" height="34" align="middle" alt="AWS IAM" title="AWS IAM"></a>&nbsp;<b>IAM</b>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/s3/" title="Amazon S3"><img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="34" height="34" align="middle" alt="Amazon S3" title="Amazon S3"></a>&nbsp;<b>S3</b>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/vpc/" title="Amazon VPC"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" width="34" height="34" align="middle" alt="Amazon VPC" title="Amazon VPC"></a>&nbsp;<b>VPC</b>&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td align="right"><b>Kubernetes platform</b></td>
+<td>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"> <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" alt="Istio"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <code>Ingress</code> <code>Service&nbsp;mesh</code> <code>Containers</code>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Traffic &amp; security</b></td>
+<td>
+<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0"> <code>Proxies</code> <code>Internal&nbsp;&amp;&nbsp;external&nbsp;API&nbsp;endpoints</code> <code>Secure&nbsp;software&nbsp;delivery</code>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Delivery &amp; IaC</b></td>
+<td>
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"> <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML"> <code>CI/CD</code> <code>Continuous&nbsp;delivery</code> <code>Automation</code> <code>Infrastructure&nbsp;as&nbsp;Code</code>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Artifacts</b></td>
+<td>
+<code>Container&nbsp;images</code> <code>Registries</code> <code>Packages</code> <code>Deployment&nbsp;artifacts</code>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Ops &amp; reliability</b></td>
+<td>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"> <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <code>Monitoring</code> <code>Observability</code> <code>Automated&nbsp;tests</code> <code>Compliance</code>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Systems</b></td>
+<td>
+<code>Distributed&nbsp;systems</code> <code>Microservices</code> <code>APIs</code> <code>Large-scale&nbsp;backend&nbsp;services</code>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Data &amp; ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+</td>
+</tr>
+</table>
 
+</details>
 
+## How I ship
 
-<br><br>
+<sub>Secure delivery flow, from commit to production. Use the controls on the diagram to zoom and pan.</sub>
 
+```mermaid
+%%{init: {"flowchart": {"wrappingWidth": 260, "nodeSpacing": 28, "rankSpacing": 34, "padding": 10}}}%%
+flowchart LR
+    subgraph BUILD["1 · Build + test"]
+        direction TB
+        code["Code<br/>Java · Spring Boot<br/>React · TypeScript"]
+        ci["GitLab CI<br/>build + automated tests"]
+        sec["Security +<br/>compliance checks"]
+        code --> ci --> sec
+    end
+    subgraph SHIP["2 · Package"]
+        direction TB
+        img["Container image"]
+        reg["Registry<br/>images · packages<br/>artifacts"]
+        img --> reg
+    end
+    subgraph DEPLOY["3 · Provision + deploy"]
+        direction TB
+        tf["Terraform IaC<br/>VPC · EKS · IAM · S3"]
+        helm["Helm release"]
+        k8s["Kubernetes on EKS"]
+        tf --> helm --> k8s
+    end
+    subgraph RUN["4 · Run + observe"]
+        direction TB
+        mesh["Istio + Ingress<br/>OAuth 2.0<br/>internal + external APIs"]
+        obs["Grafana<br/>monitoring<br/>observability"]
+        mesh --> obs
+    end
+    BUILD --> SHIP --> DEPLOY --> RUN
+    RUN ~~~ pad["spacer"]
 
+    classDef build fill:#3B82F6,stroke:#1D4ED8,color:#fff
+    classDef ship fill:#8B5CF6,stroke:#6D28D9,color:#fff
+    classDef deploy fill:#0891B2,stroke:#0E7490,color:#fff
+    classDef run fill:#F97316,stroke:#C2410C,color:#fff
+    class code,ci,sec build
+    class img,reg ship
+    class tf,helm,k8s deploy
+    class mesh,obs run
+    style BUILD fill:none,stroke:#3B82F6,stroke-width:2px,color:#3B82F6
+    style SHIP fill:none,stroke:#8B5CF6,stroke-width:2px,color:#8B5CF6
+    style DEPLOY fill:none,stroke:#0891B2,stroke-width:2px,color:#0891B2
+    style RUN fill:none,stroke:#F97316,stroke-width:2px,color:#F97316
+    %% invisible column so GitHub's zoom buttons sit over empty space
+    style pad fill:none,stroke:none,color:transparent
+```
 
-<h1 align="center">Support Me</h1>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th align="center">
-        <a href="https://buymeacoffee.com/orniepayer" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-      </th>
-      <th align="center">
-        <a href="https://buy.stripe.com/dR68wZ2GpesA9wY4gg" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width: 200px;">
-        </a>
-      </th>
-    </tr>
-  </table>
+## Featured projects
 
-</div>
+<table>
+<tr>
+<td width="33%" align="center" valign="middle">
+<a href="https://ub-commons.vercel.app"><img src="https://raw.githubusercontent.com/Orniepay/UB-Commons/main/static/video/docker.gif" width="100%" alt="UB Commons screenshot"></a>
+</td>
+<td width="33%" align="center" valign="middle">
+<a href="https://vital-care-lyart.vercel.app"><img src="https://raw.githubusercontent.com/Orniepay/VitalCare/main/static/images/VitalsCare.png" width="100%" alt="VitalCare screenshot"></a>
+</td>
+<td width="33%" align="center" valign="middle">
+<a href="https://wayfarer-six.vercel.app"><img src="https://raw.githubusercontent.com/Orniepay/WAYFARER/main/images/Wayfarer.gif" width="100%" alt="WAYFARER screenshot"></a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<h3>UB Commons</h3>
+<p>Food web app for UB Commons.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>VitalCare</h3>
+<p>Remote patient monitoring system web app.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>WAYFARER</h3>
+<p>Indie 2D platformer game.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pygame-2E7D32?style=flat-square" alt="Pygame"></p>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="middle">
+<a href="https://ub-commons.vercel.app"><img src="https://img.shields.io/badge/Live_demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
+<a href="https://github.com/Orniepay/UB-Commons"><img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+</td>
+<td width="33%" align="center" valign="middle">
+<a href="https://vital-care-lyart.vercel.app"><img src="https://img.shields.io/badge/Live_demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
+<a href="https://github.com/Orniepay/VitalCare"><img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+</td>
+<td width="33%" align="center" valign="middle">
+<a href="https://wayfarer-six.vercel.app"><img src="https://img.shields.io/badge/Live_demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
+<a href="https://github.com/Orniepay/WAYFARER"><img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+</td>
+</tr>
+</table>
 
+<details>
+<summary><b>More projects</b> &nbsp;<sub>(click to expand)</sub></summary>
+<br>
 
+| Project | What it is |
+| --- | --- |
+| [**Ghost Key**](https://github.com/Orniepay/ghost-key) | Morse-code communication app for people who can't speak or type. AI turns a few taps into full spoken sentences. Built with Kiro for Kiroween 2026. |
+| [**Tasklify**](https://github.com/Orniepay/Tasklify) | Full-stack task manager: React, Node.js, Express, MySQL. Containerized with Docker and deployed on AWS. |
+| [**YouTube AI Chatbot**](https://github.com/Orniepay/YouTube-AI-Chatbot) | AI chatbot with GPT-3.5-Turbo, MindsDB, and PostgreSQL. |
+| [**Python Testing Templates**](https://github.com/Orniepay/Python-Testing-Templates) | Reusable animated terminal test runner: progress bars, pass and fail marks, PyCharm-style output in the VS Code terminal. |
 
-<br><br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FFF400&center=true&width=1000&lines=Hallo+there%2C+I'm+Ornie!;Feel+welcomed!+%3AD;Innovating+the+future%2C+one+line+of+code+at+a+time.;Let's+innovate+together!)](https://git.io/typing-svg)
+</details>
 
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"> -->
+## Support my work
+
+<p align="left">
+<a href="https://buymeacoffee.com/orniepayer"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a> <a href="https://buy.stripe.com/dR68wZ2GpesA9wY4gg"><img src="https://img.shields.io/badge/Donate%20with%20Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Donate with Stripe"></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Let's%20innovate%20together!&fontSize=26&fontAlignY=72&fontColor=ffffff&color=0:6D28D9%2C55:1E3A8A%2C100:0B1120">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Let's%20innovate%20together!&fontSize=26&fontAlignY=72&fontColor=ffffff&color=0:8B5CF6%2C50:3B82F6%2C100:06B6D4" alt="Let's innovate together!" width="100%">
+</picture>
