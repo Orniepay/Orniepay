@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 style="font-family: Times New Roman, sans-serif;" align="center">Hallo, I'm Ornie <a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/icons/wave.gif" width="48" alt="waving hand"/></a></h1> 
+<h1 style="font-family: Times New Roman, sans-serif;" align="center">Hallo, I'm Ornie <a href="https://orniepayer.com/"><img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/icons/wave.gif" width="48" alt="waving hand"/></a></h1> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&color=388bfd&center=true&vCenter=true&width=435&lines=Software+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=388bfd&center=true&vCenter=true&width=435&lines=Software+Engineer;" alt="Typing SVG" />
 </p>
 
 <!-- <img height=250 width=4000 align="center" src="https://github-readme-stats.vercel.app/api?username=Orniepay&theme=github_dark_dimmed&show_icons=false"/> -->
@@ -63,19 +63,19 @@ You can see more about me and my projects in my personal website. -->
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
         </a>
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
         </a>
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
         </a>
         <br>React
       </td>
@@ -115,7 +115,7 @@ You can see more about me and my projects in my personal website. -->
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+        <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/><br>Django
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
@@ -138,7 +138,7 @@ You can see more about me and my projects in my personal website. -->
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
@@ -162,10 +162,10 @@ You can see more about me and my projects in my personal website. -->
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/><br>Docker
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
       </td>
     </tr>
   </tbody>
@@ -188,7 +188,7 @@ You can see more about me and my projects in my personal website. -->
         <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/><br>AWS
       </td>
     </tr>
   </tbody>
@@ -207,7 +207,7 @@ You can see more about me and my projects in my personal website. -->
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/><br>Python
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
@@ -271,7 +271,7 @@ You can see more about me and my projects in my personal website. -->
 
 | **LinkedIn** | **Github** | **Discord** | 
 | --- | --- | --- |
-| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=Ornie+Payer&size=square)](https://www.linkedin.com/in/ornie-payer/) | [![Github](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=Orniepay&size=square)](https://github.com/Orniepay) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Orn&size=square)](https://discord.com/users/1034588900267655300) |
+| [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fornie-payer%2F&subtitle=Ornie+Payer&size=square)](https://www.linkedin.com/in/ornie-payer/) | [![Github](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FOrniepay&subtitle=Orniepay&size=square)](https://github.com/Orniepay) | [![Discord](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Orn&size=square)](https://discord.com/users/1034588900267655300) |
 
 
 
@@ -290,11 +290,10 @@ You can see more about me and my projects in my personal website. -->
       </th>
       <th align="center">
           <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-        </a>
       </th>
       <th align="center">
         <a href="https://buy.stripe.com/dR68wZ2GpesA9wY4gg" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
+          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width: 200px;">
         </a>
       </th>
     </tr>
@@ -309,4 +308,3 @@ You can see more about me and my projects in my personal website. -->
 
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
