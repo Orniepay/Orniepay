@@ -1,4 +1,4 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h1 style="font-family: Times New Roman, sans-serif;" align="center">Hallo, I'm Ornie <a href="https://orniepayer.com/"><img src="https://raw.githubusercontent.com/KenanGain/KenanGain/main/icons/wave.gif" width="48" alt="waving hand"/></a></h1> 
 <p align="center">
@@ -307,4 +307,4 @@ You can see more about me and my projects in my personal website. -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FFF400&center=true&width=1000&lines=Hallo+there%2C+I'm+Ornie!;Feel+welcomed!+%3AD;Innovating+the+future%2C+one+line+of+code+at+a+time.;Let's+innovate+together!)](https://git.io/typing-svg)
 
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
